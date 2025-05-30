@@ -24,6 +24,7 @@ cd tienda-audifonos
 start principal.html      # En Windows
 open principal.html       # En Mac
 xdg-open principal.html   # En Linux
+```
 
 ## Capturas
 
