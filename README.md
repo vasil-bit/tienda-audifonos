@@ -26,9 +26,9 @@ open principal.html       # En Mac
 xdg-open principal.html   # En Linux
 
 ## Capturas
-    
-![Vista principal01](/screenshots/01.png)
-![Vista principal02](/screenshots/02.png)
-![Vista principal03](/screenshots/03.png)
-![Vista principal04](/screenshots/04.png)
-![Vista principal05](/screenshots/05.png)
+
+![Vista principal01](screenshots/01.png)
+![Vista principal02](screenshots/02.png)
+![Vista principal03](screenshots/03.png)
+![Vista principal04](screenshots/04.png)
+![Vista principal05](screenshots/05.png)
