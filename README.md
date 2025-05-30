@@ -33,3 +33,8 @@ xdg-open principal.html   # En Linux
 ![Vista principal03](screenshots/03.png)
 ![Vista principal04](screenshots/04.png)
 ![Vista principal05](screenshots/05.png)
+
+
+## 👤 Autor
+
+Desarrollado por [Vasil](https://github.com/vasil-bit) — 2025.
