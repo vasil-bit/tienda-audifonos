@@ -34,7 +34,8 @@ xdg-open principal.html   # En Linux
 ![Vista principal04](screenshots/04.png)
 ![Vista principal05](screenshots/05.png)
 
-
+ mire la demo de la pagina https://youtu.be/1rNmzu-6EUs?si=HrMFAZkmVqDpYWJr
+ 
 ## 👤 Autor
 
 Desarrollado por [Vasil](https://github.com/vasil-bit) — 2025.
